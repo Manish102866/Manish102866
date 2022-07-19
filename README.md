@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m Manish Joshi
+- :office: I work at Borderless Inc. where I develop webapp for 'Smart Helmet' for 'Bike Riders & Constraction Workers'.
+- 🌱 I’m currently learning React, Python & GCP
+- 👯 I’m looking to collaborate on AI Projects
+- 💬 Ask me about Microsoft Technologies
+- 📫 How to reach me: mahi.joshi102866@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I Love You
+
+
+
 <!--
 **Manish102866/Manish102866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
