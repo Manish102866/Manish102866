@@ -7,7 +7,7 @@
 - 💬 Ask me about Microsoft Technologies
 - 📫 How to reach me: mahi.joshi102866@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I Love You
+- ⚡ Fun fact: I Love You :wink:
 
 
 
