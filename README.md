@@ -43,7 +43,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-<div id="tools" style="background-color: white;">
+<div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".Net" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NetCore" alt=".NETCore" width="40" height="40"/>&nbsp;
@@ -69,8 +69,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish102866&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish102866&show_icons=true&theme=radical)
-
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish102866&show_icons=true&theme=radical)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish102866&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
