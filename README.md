@@ -35,7 +35,7 @@
 - 🌱 I’m currently learning React, Python & GCP.
 - 👯 I’m looking to collaborate on AI Projects.
 - 💬 Ask me about Microsoft Technologies.
-- 📫 How to reach me: mahi.joshi102866@gmail.com
+- 📫 How to reach me: joshimanish7@outlook.com
 - 😄 Pronouns: he/him/his
 - 🎥 I love making travel vlog on YouTube: https://www.youtube.com/@asianinterstellar
 - ⚡ Fun fact: I can fly some aircrafts ✈️ like Cessna Skyhawk, Airbus A320, Boeing 747 😎
