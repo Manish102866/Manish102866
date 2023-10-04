@@ -30,14 +30,13 @@
 ---
   ### 👨‍💻: About Me :
 
-- 🔭 I’m Manish Joshi
-- :office: I work at Borderless Inc. where I develop webapp for 'Smart Helmet' for 'Bike Riders & Constraction Workers'.
-- 🌱 I’m currently learning React, Python & GCP.
+- 🔭 I’m Manish Joshi <!-- - :office: I work at Borderless Inc. where I develop web apps for 'Smart Helmet' for 'Bike Riders & Construction Workers'.-->
+- 🌱 I’m currently working on React (TypeScript), Python, GCP, AWS, and Azure.
 - 👯 I’m looking to collaborate on AI Projects.
 - 💬 Ask me about Microsoft Technologies.
 - 📫 How to reach me: joshimanish7@outlook.com
 - 😄 Pronouns: he/him/his
-- 🎥 I love making travel vlog on YouTube: https://www.youtube.com/@asianinterstellar
+- 🎥 I love making travel vlogs on YouTube: https://www.youtube.com/@asianinterstellar
 - ⚡ Fun fact: I can fly some aircrafts ✈️ like Cessna Skyhawk, Airbus A320, Boeing 747 😎
 
 ---
